@@ -1,3 +1,3 @@
 # Add documentation to README.md
 
-# Projet_flutter
+# PROJET_CAISSE_NUMERIQUE
